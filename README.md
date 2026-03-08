@@ -4,8 +4,7 @@
 This project was completed as part of the **Summer Training at the National Telecommunication Institute (NTI)** in the Fortinet Cybersecurity track. The goal was to design and implement a secure network topology using multiple FortiGate Firewalls to simulate a real-world enterprise environment.
 
 ## Network Topology
-![Topology](./Screenshots/topology.jpg) 
-*(Make sure the image name matches what you uploaded)*
+![Network Topology](./Screenshots/Topology.jpg) 
 
 ## Key Features & Configurations
 The project demonstrates the following cybersecurity and networking concepts:
